@@ -7,6 +7,7 @@ public class multiplication {
 		System.out.println(5*4);
 
 		System.out.println("hello,this is nice");
+	System.out.println("hello");
 	}
 
 }
