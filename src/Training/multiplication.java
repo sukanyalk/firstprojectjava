@@ -8,6 +8,7 @@ public class multiplication {
 
 		System.out.println("hello,this is nice");
 	System.out.println("hello");
+	System.out.println(45*9);
 	}
 
 }
