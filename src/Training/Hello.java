@@ -12,6 +12,9 @@ System.out.println("Hi this is Sukanya");
 System.out.println(20+40);
 System.out.println("github integration successfull");
 System.out.println(90*5);
+System.out.println(5*7);
+System.out.println(7*7);
+
 		
 	}
 
