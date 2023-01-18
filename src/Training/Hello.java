@@ -14,6 +14,7 @@ System.out.println("github integration successfull");
 System.out.println(90*5);
 System.out.println(5*7);
 System.out.println(7*7);
+System.out.println(8/2);
 
 		
 	}
